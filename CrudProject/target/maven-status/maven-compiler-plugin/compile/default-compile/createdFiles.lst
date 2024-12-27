@@ -1,0 +1,11 @@
+org\example\NotesController.class
+org\example\DataBase\DBupdate.class
+org\example\functions\Search.class
+org\example\Main.class
+org\example\DataBase\DBUtils.class
+org\example\DataBase\DBshow.class
+org\example\DataBase\DataBaseCreate.class
+org\example\functions\Pagination.class
+org\example\DataBase\DBadd.class
+org\example\DataBase\DBdelete.class
+org\example\functions\Filters.class
